@@ -1,0 +1,8 @@
+syntax = "proto3";
+package storage;
+
+option go_package = "mini-lsm/pkg/proto/storage";
+
+message Request{
+  bytes key = 1;
+}
