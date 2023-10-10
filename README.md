@@ -5,7 +5,7 @@ Build a simple key-value storage engine in a week!
 
 ## Tutorial
 
-The tutorial is available at [https://github.com/zhenguozhang/mini-lsm](https://github.com/zhenguozhang/mini-lsm). You can use the provided starter
+The tutorial is available at [https://zhenguozhang.github.io/mini-lsm/](https://zhenguozhang.github.io/mini-lsm/). You can use the provided starter
 code to kick off your project, and follow the tutorial to implement the LSM tree.
 
 ## Development
