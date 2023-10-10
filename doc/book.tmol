@@ -1,0 +1,10 @@
+[book]
+authors = ["ZG Zhang"]
+language = "en"
+multilingual = false
+src = "src"
+title = " Build a LSM for 7 days"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
