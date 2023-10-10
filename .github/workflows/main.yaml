@@ -18,7 +18,7 @@ jobs:
       - uses: taiki-e/install-action@nextest
       - uses: taiki-e/install-action@mdbook
       - name:  build
-        run: ls
+        run: mdbook build doc
       - uses: actions/upload-pages-artifact@v1
         with:
           path: doc/book
