@@ -17,8 +17,6 @@ jobs:
         run: rustup show
       - uses: taiki-e/install-action@nextest
       - uses: taiki-e/install-action@mdbook
-      - name: check and build
-        run: cargo x ci
       - uses: actions/upload-pages-artifact@v1
         with:
           path: doc/book
