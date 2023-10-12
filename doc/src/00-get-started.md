@@ -2,7 +2,7 @@
 
 The starter code and reference solution is available at [https://github.com/zhenguozhang/mini-lsm](https://github.com/zhenguozhang/mini-lsm).
 
-## Install Rust
+## Install Golang
 
 See [https://go.dev](https://go.dev) for more information.
 
