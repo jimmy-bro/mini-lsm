@@ -1,7 +1,7 @@
 # LSM in a Week
 
-[Overview](./00-overview.md)
 [Get Started](./00-get-started.md)
+[Overview](./00-overview.md)
 
 ---
 
